@@ -28,8 +28,9 @@ Contents
 .. toctree::
    :maxdepth:1
    
+   download
    installation
-   get-started
+   quick-recording
    settings
    limitations
    contacts
