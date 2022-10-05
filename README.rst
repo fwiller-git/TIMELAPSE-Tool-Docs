@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+TIMELAPSE Tool Documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+.. image:: https://readthedocs.org/projects/timelapse-tool-docs/badge/?version=latest
 
-Read the tutorial here:
+The documentation is available at:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://timelapse-tool-docs.readthedocs.io/en/latest
