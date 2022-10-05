@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'TIMELAPSE Tool'
-copyright = '2022, Fwiller'
-author = 'Fwiller'
+copyright = '2022, Collin Myhre'
+author = 'Collin Myhre'
 
 release = '1.0.0'
 version = '1.0.0'

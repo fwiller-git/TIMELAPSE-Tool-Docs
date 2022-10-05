@@ -17,6 +17,11 @@ Requirements
 --------
 * Blender 2.93 or above (older versions are not currently supported)
 
+.. attention::
+   This addon has been developed for Windows devices and has not been tested on Mac OS. Linux should function, but it has not been tested extensively
+
+
+
 Contents
 --------
 
@@ -24,7 +29,7 @@ Contents
    :maxdepth:1
    
    installation
-   first-recording
+   get-started
    settings
    limitations
    contacts
