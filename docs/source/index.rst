@@ -1,9 +1,9 @@
-TIMELAPSE Tool Documentation
+What is TIMELAPSE Tool?
 ===================================
 
 **TIMELAPSE Tool** is a Blender addon that records timelapse footage of your project in the background.
 
-Main Features
+Features
 --------
 * **Capture Screenshots:** Record your entire project window at a fixed interval
 * **Capture from Camera:** Record from the perspective of the camera in the scene
