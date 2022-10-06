@@ -18,8 +18,7 @@ Requirements
 * Blender 2.93 or above (older versions are not currently supported)
 
 .. attention::
-   This addon has been developed for Windows devices and has not been tested on Mac OS. Linux should function, but it has not been tested extensively
-
+   This addon has been developed for Windows devices and has not been tested on Mac OS. Linux should function, but it has not been tested thoroughly
 
 
 Contents
@@ -28,6 +27,7 @@ Contents
 .. toctree::
    :maxdepth:1
    
+   index
    download
    installation
    quick-recording
