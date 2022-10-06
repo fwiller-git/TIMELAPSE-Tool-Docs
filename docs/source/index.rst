@@ -25,6 +25,7 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 0
    :titlesonly:
    
    index
