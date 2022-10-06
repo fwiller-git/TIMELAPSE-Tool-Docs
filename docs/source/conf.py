@@ -6,8 +6,8 @@ project = 'TIMELAPSE Tool'
 copyright = '2022, Collin Myhre'
 author = 'Collin Myhre'
 
-release = '1.0.0'
-version = '1.0.0'
+release = '1.0'
+version = '1.0'
 
 # -- General configuration
 
@@ -33,3 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+html_theme_options = {
+    'navigation_depth': 1,
+}
