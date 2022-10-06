@@ -1,6 +1,11 @@
 Installation
 ===================================
 
+This section will show you how to install and update TIMELAPSE tool
+
+Install
+-------
+
 .. note::
     Before installing, make sure you are using Blender 2.93 or higher
 
@@ -22,3 +27,6 @@ Installation
         :width: 713
 
 #. Restart Blender
+
+Update
+------
