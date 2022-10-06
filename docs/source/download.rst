@@ -3,16 +3,16 @@ Download
 
 Gumroad
 -------
-`Title <http://link>`_ 
+`https://fwiller.gumroad.com/l/timelapse <https://fwiller.gumroad.com/l/timelapse>`_ 
 
 Blender Market
 --------------
-`Title <http://link>`_ 
+Coming Soon...
 
 Art Station
 -----------
-`Title <http://link>`_ 
+Coming Soon...
 
 Itch
 -----
-`Title <http://link>`_ 
+Coming Soon...
