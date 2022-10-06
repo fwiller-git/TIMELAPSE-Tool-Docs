@@ -22,7 +22,7 @@ Requirements
 
 
 Contents
---------
+^^^^^^^^
 
 .. toctree::
    :maxdepth: 1
