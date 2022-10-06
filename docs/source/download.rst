@@ -1,4 +1,4 @@
-Where to Download?
+Download
 ==================
 
 Gumroad
