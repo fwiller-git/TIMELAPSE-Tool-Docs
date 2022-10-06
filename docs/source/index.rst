@@ -25,10 +25,8 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 0
-   :titlesonly:
+   :maxdepth: 1
    
-   index
    download
    installation
    quick-recording
