@@ -7,7 +7,7 @@ Install
 -------
 
 .. note::
-    Before installing, make sure you are using Blender 2.93 or higher
+    Before installing, make sure you are using Blender 3.0 or higher
 
 #. Open Blender *Settings*.
 
