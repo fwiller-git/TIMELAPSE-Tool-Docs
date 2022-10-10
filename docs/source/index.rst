@@ -33,6 +33,7 @@ Contents
    quick-recording
    settings
    limitations
+   changelog
    contacts
 
 .. note::

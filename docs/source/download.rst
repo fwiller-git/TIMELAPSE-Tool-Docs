@@ -9,10 +9,10 @@ Blender Market
 --------------
 Coming Soon...
 
-Art Station
------------
-Coming Soon...
-
 Itch
 -----
+Coming Soon...
+
+Art Station
+-----------
 Coming Soon...
