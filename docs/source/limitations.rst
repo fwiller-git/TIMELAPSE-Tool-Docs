@@ -10,6 +10,7 @@ Limitations
 Known Bugs
 ----------
 * Images counter not updating when only recording in Window mode (Visual Bug)
+* Infinite "Modal Detected" Error if starting a recording in the middle of setting the file path. Currently requires reloading the blend file to start recording again. I suspect this will not be an issue when is_operator_modal becomes available in the blender python api, but alternative solutions are being looked in to
 
 .. attention::
     Bugs listed here have been officially reported and will be removed as they are fixed. Please report any you find!
