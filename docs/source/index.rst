@@ -10,7 +10,7 @@ Features
 * **Animate Cameras:** Record from cameras with animation keyframes
 * **Multi-Camera Capture:** Record from the perspective of multiple cameras in the scene simultaneously
 * **Lock Shading:** Lock the viewport shading settings of the timelapse capture
-* **Generate Video from Image Sequence:** Automatically create a timelapse video from using the recorded image sequence
+* **Generate Video from Image Sequence:** Automatically create a timelapse video using the recorded image sequence
 * **More to Come...**
 
 Requirements
