@@ -34,6 +34,7 @@ Contents
    settings
    limitations
    changelog
+   roadmap
    contacts
 
 .. note::
