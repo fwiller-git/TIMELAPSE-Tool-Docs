@@ -7,12 +7,12 @@ Gumroad
 
 Blender Market
 --------------
-Coming Soon...
+`https://blendermarket.com/products/timelapse-tool <https://blendermarket.com/products/timelapse-tool>`_ 
 
 Itch
 -----
-Coming Soon...
+`https://fwiller.itch.io/timelapse-tool <https://fwiller.itch.io/timelapse-tool>`_ 
 
 Art Station
 -----------
-Coming Soon...
+`https://www.artstation.com/a/22334425 <https://www.artstation.com/a/22334425>`_ 
