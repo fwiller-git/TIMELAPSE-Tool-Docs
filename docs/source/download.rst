@@ -15,4 +15,4 @@ Itch
 
 Art Station
 -----------
-`https://www.artstation.com/a/22334425 <https://www.artstation.com/a/22334425>`_ 
+`https://www.collinmyhre.com/store/MGmP6/addon-timelapse-tool <https://www.collinmyhre.com/store/MGmP6/addon-timelapse-tool>`_ 
