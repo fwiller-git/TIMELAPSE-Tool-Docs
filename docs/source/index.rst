@@ -33,7 +33,8 @@ Contents
    index
    download
    installation
-   quick-recording
+   quickstart
+   setup
    settings
    limitations
    changelog
