@@ -34,7 +34,6 @@ Contents
    download
    installation
    quickstart
-   setup
    settings
    limitations
    changelog
