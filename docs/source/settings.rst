@@ -3,8 +3,6 @@ Settings
 
 This section will go over all the options, buttons, and settings within TIMELAPSE Tool
 
-Main
------
 RECORD
 """"""
 .. image:: images/record.png
@@ -34,17 +32,19 @@ This will capture the entire window perspective.
    You can have both Camera and Window enabled at the same time to capture both perspectives.
 
 Camera Editor:
-^^^^^^^^^^^^^^
+--------------
 Add Camera
 """"""""""
 .. image:: images/add_camera.png
 This will Add a Timelapse Camera to the Scene from your current viewport perspective. Atleast one Timelapse Camera is required for capturing with the Camera option.
 
+Change Camera Name
+""""""""""""""""""
 .. image:: images/custom_name.gif
 You can change the names of the Timelapse Cameras by double clicking their list entry and typing a new name.
 
-List Actions
-""""""""""""
+Reorder Cameras
+"""""""""""""""
 .. image:: images/change_order.gif
 You can also reorder the list with the arrows on the side
 
