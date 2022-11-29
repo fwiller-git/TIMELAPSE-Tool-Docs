@@ -4,7 +4,7 @@ Settings
 This section will go over all the options, buttons, and settings within TIMELAPSE Tool
 
 Main
-=====
+-----
 RECORD
 ^^^^^^
 .. image:: images/record_button.png
@@ -19,7 +19,7 @@ This is the duration of time (in minutes) between each image capture. Default is
     The lower your interval, the more likely you are to experience hitching. Keep this in mind if you are experiencing performance issues
 
 Capture Options:
-================
+----------------
 Camera
 ^^^^^^
 .. image:: images/camera_co.png
