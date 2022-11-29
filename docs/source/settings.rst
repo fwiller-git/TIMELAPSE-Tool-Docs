@@ -80,6 +80,7 @@ Lock Viewport Shading
 ---------------------
 .. image:: images/shadelock1.png
 This will set the current viewport shading options and use them during the timelapse capture.
+
 .. image:: images/shadelock2.png
 When the viewport shading is locked, the panel will unfold and display all the locked options. When locked, you are free to change what your viewport looks like, and these settings will stay the same during your timelapse capture.
 
