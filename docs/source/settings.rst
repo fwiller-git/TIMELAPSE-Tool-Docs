@@ -7,12 +7,12 @@ Main
 -----
 RECORD
 ^^^^^^
-.. image:: images/record_button.png
+.. image:: images/record.png
 This button will Start and Stop the Timelapse Recording. It is disabled until you've Saved and Selected a Capture Option
 
 Interval (minutes)
 ^^^^^^^^^^^^^^^^^^
-.. image:: images/interval.png
+.. image:: images/interval(minutes).png
 This is the duration of time (in minutes) between each image capture. Default is 1 minute. Using the slider you can reach a soft minimum of 0.5 minutes, and by typing in the field you can reach a hard minimum of 0.1 minutes.      
 
 .. note::
@@ -22,12 +22,12 @@ Capture Options:
 ----------------
 Camera
 ^^^^^^
-.. image:: images/camera_co.png
+.. image:: images/camera.png
 This will capture from the perspective of Timelapse Cameras, and enable the Camera Editor.
 
 Window
 ^^^^^^
-.. image:: images/window_co.png
+.. image:: images/window.png
 This will capture the entire window perspective.
 
 .. note::
