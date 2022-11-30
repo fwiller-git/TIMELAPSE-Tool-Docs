@@ -90,5 +90,34 @@ This will set the current viewport shading options and use them during the timel
 .. image:: images/shadelock2.png
 When the viewport shading is locked, the panel will unfold and display all the locked options. When locked, you are free to change what your viewport looks like, and these settings will stay the same during your timelapse capture.
 
+File Path
+---------
+
+.. image:: images/filepath.png
+This is where the Timelapse images will be saved to. Default is a relative path folder next to your .blend file called "TLTool_Images"
+
+Images
+------
+
+.. image:: images/number.png
+This is the number of image captures you've taken so far in your timelapse. This will count up everytime there is a new image capture.
+
+ID
+-----
+
+.. image:: images/id.png
+This is the unique ID generated for your timelapse session. Your timelapse images will be saved to a subfolder with this id.
+
+Regenerate ID
+-------------
+
+.. image:: images/refresh.png
+This will generate a new random timelapse ID, and reset the image counter to 0.
+
+Generate Video From Sequence
+----------------------------
+
+.. image:: images/video.png
+Once you have you have your timelapse recorded, pressing this button will automatically convert the image sequence into a video file. The framerate and aspect ratio are determined by your current project render settings. 
 
 WORK IN PROGRESS. Head over to `Our Discord <https://discord.gg/5UK6uFnVV9>`_ for some help in the meantime. 
