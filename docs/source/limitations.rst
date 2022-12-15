@@ -10,8 +10,6 @@ Limitations
 Known Bugs
 ----------
 * Infinite "Modal Detected" Error if starting a recording in the middle of setting the file path. Currently requires reloading the blend file to start recording again. I suspect this will not be an issue when is_operator_modal becomes available in the blender python api, but alternative solutions are being looked in to
-* Error Messages when adding or Removing Cameras while multiple 3D viewports are open.
-*  **Multiple Viewports** open at the same time is causing several bugs. These will be addressed in the next hotfix!
 
 .. attention::
     Bugs listed here have been officially reported and will be removed as they are fixed. Please report any you find!
